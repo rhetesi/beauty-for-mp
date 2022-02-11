@@ -15,7 +15,7 @@
 }
 
 .footer {
-    height: 25vh;
+    height: auto;
     background-color: rgb(37, 37, 37);
     color: var(--header-footer-text-color);
 }
