@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.header {
+    height: 1.5em;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+}
+
+.footer {
+    height: 25vh;
+    background-color: rgb(37, 37, 37);
+    color: darkgray;
+}
+
+.section {
+    height: 150vh;
+}
+
+.fisrt {
+    background-color: aquamarine;
+}
+
+.second {
+    background-color: cadetblue;
+}
+
+.third {
+    background-color: cornflowerblue;
+}
