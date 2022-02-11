@@ -3,16 +3,21 @@
     margin: 0;
 }
 
+:root {
+    --main-text-color: rgb(25, 25, 25);
+    --header-footer-text-color: rgb(100, 100, 100);
+}
+
 .header {
     height: 1.5em;
     background-color: rgb(37, 37, 37);
-    color: azure;
+    color: var(--header-footer-text-color);
 }
 
 .footer {
     height: 25vh;
     background-color: rgb(37, 37, 37);
-    color: darkgray;
+    color: var(--header-footer-text-color);
 }
 
 .section {
@@ -21,12 +26,15 @@
 
 .fisrt {
     background-color: aquamarine;
+    color: var(--main-text-color);
 }
 
 .second {
     background-color: cadetblue;
+    color: var(--main-text-color);
 }
 
 .third {
     background-color: cornflowerblue;
+    color: var(--main-text-color);
 }
