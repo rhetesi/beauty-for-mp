@@ -38,3 +38,13 @@
     background-color: cornflowerblue;
     color: var(--main-text-color);
 }
+
+li.social {
+    list-style: none;
+}
+
+.social a {
+    color: var(--header-footer-text-color);
+    outline: none;
+    text-decoration: none;
+}
