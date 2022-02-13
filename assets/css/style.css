@@ -39,12 +39,13 @@
     color: var(--main-text-color);
 }
 
-li.social {
+/* li.social {
     list-style: none;
-}
+} */
 
-.social a {
+a.social {
     color: var(--header-footer-text-color);
+    display: block;
     outline: none;
     text-decoration: none;
 }
