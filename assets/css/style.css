@@ -10,17 +10,17 @@
 
 .header {
     height: 1.5em;
-    background-color: rgb(37, 37, 37);
+    /* background-color: rgb(37, 37, 37); */
     color: var(--header-footer-text-color);
 }
 
-.navbg {
+/* .navbg {
     background-color: rgb(37, 37, 37) !important;
-}
+} */
 
 .footer {
     height: auto;
-    background-color: rgb(37, 37, 37);
+    /* background-color: rgb(37, 37, 37); */
     color: var(--header-footer-text-color);
 }
 
