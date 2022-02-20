@@ -10,18 +10,19 @@
     --header-footer-text-color: rgb(100, 100, 100);
 }
 
-.header {
+/* .header {
     height: 1.5em;
-    /* background-color: rgb(37, 37, 37); */
+    background-color: rgb(37, 37, 37);
     color: var(--header-footer-text-color);
-}
+} */
 
-.vivaldi {
+.vivaldi,
+.dejavu {
     font-family: 'Vivaldi', sans-serif;
     font-size: 2rem;
-    color: gold;
+    color: gold !important;
     /* padding-top: -0.5rem; */
-    margin-top: -1rem;
+    /* margin-top: -1rem; */
 }
 
 .szalon {
