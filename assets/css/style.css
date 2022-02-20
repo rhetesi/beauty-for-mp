@@ -1,3 +1,5 @@
+@import url('http://fonts.cdnfonts.com/css/vivaldi');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -12,6 +14,19 @@
     height: 1.5em;
     /* background-color: rgb(37, 37, 37); */
     color: var(--header-footer-text-color);
+}
+
+.vivaldi {
+    font-family: 'Vivaldi', sans-serif;
+    font-size: 2rem;
+    color: gold;
+}
+
+.szalon {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: -0.75rem;
+    color: cornflowerblue;
 }
 
 /* .navbg {
