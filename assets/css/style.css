@@ -43,7 +43,8 @@
     color: var(--header-footer-text-color);
 }
 
-.section {
+.section,
+.article {
     height: 150vh;
 }
 
