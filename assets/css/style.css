@@ -33,18 +33,14 @@
     color: cornflowerblue;
 }
 
-/* .bgimg {
-    background-image: url('./images_delete_if_done/face-bg.webp') no-repeat center center fixed;
-    background-size: cover;
-    background: transparent !important;
-} */
-
-/* .navbg {
-    background-color: rgb(37, 37, 37) !important;
-} */
+.beautyface {
+    background-image: url('../img/beauty-face.jpg');
+    height: 1080px;
+}
 
 .footer {
     height: auto;
+    /* background-image: url('../../assets/img/beauty-face.jpg'); */
     /* background-color: rgb(37, 37, 37); */
     color: var(--header-footer-text-color);
 }
@@ -53,25 +49,6 @@
 .article {
     min-height: 100vh;
 }
-
-.fisrt {
-    background-color: aquamarine;
-    color: var(--main-text-color);
-}
-
-.second {
-    background-color: cadetblue;
-    color: var(--main-text-color);
-}
-
-.third {
-    background-color: cornflowerblue;
-    color: var(--main-text-color);
-}
-
-/* li.social {
-    list-style: none;
-} */
 
 a.social {
     color: var(--header-footer-text-color);
