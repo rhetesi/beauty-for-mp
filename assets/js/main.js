@@ -8,7 +8,7 @@ window.onscroll = function () {
 };
 
 function changeOpacity() {
-    let opacity = 1; // set opacity to less opaque;
+    let opacity = 1; // set opacity to least opaque;
     let scrolled = document.documentElement.scrollTop; // set scrolled to how many pixel is scrolled
     // change the value of opacity variable by the scrolled value
     if (scrolled <= 99) {
