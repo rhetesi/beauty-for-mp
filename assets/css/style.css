@@ -38,6 +38,10 @@
     height: 1080px;
 }
 
+.card.noborder {
+    border: none !important;
+}
+
 .footer {
     height: auto;
     /* background-image: url('../../assets/img/beauty-face.jpg'); */
