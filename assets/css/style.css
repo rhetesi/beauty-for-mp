@@ -25,6 +25,10 @@
     /* margin-top: -1rem; */
 }
 
+.bgdvnav {
+    background-color: rgba(0, 0, 85, 0.8);
+}
+
 .szalon {
     font-size: 1rem;
     text-align: center;
